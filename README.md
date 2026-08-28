@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vighneshpoojary/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0057-insert-interval](https://github.com/vighneshpoojary/Leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vighneshpoojary/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/vighneshpoojary/Leetcode/tree/master/0238-product-of-array-except-self) |
