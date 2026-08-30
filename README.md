@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0344-reverse-string) |
 ## Matrix
