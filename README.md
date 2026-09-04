@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/vighneshpoojary/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vighneshpoojary/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vighneshpoojary/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vighneshpoojary/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -114,8 +117,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
