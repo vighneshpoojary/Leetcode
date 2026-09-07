@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vighneshpoojary/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vighneshpoojary/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0045-jump-game-ii](https://github.com/vighneshpoojary/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/vighneshpoojary/Leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/vighneshpoojary/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/vighneshpoojary/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vighneshpoojary/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vighneshpoojary/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/vighneshpoojary/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vighneshpoojary/Leetcode/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/vighneshpoojary/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Sliding Window
 |  |
