@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vighneshpoojary/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vighneshpoojary/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vighneshpoojary/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vighneshpoojary/Leetcode/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/vighneshpoojary/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vighneshpoojary/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/vighneshpoojary/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vighneshpoojary/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vighneshpoojary/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vighneshpoojary/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vighneshpoojary/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/vighneshpoojary/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vighneshpoojary/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vighneshpoojary/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vighneshpoojary/Leetcode/tree/master/0242-valid-anagram) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vighneshpoojary/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vighneshpoojary/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
