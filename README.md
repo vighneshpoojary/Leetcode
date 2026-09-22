@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vighneshpoojary/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vighneshpoojary/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/vighneshpoojary/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vighneshpoojary/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vighneshpoojary/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vighneshpoojary/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vighneshpoojary/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vighneshpoojary/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vighneshpoojary/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vighneshpoojary/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0394-decode-string) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
