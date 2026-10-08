@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vighneshpoojary/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vighneshpoojary/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vighneshpoojary/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vighneshpoojary/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vighneshpoojary/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vighneshpoojary/Leetcode/tree/master/0072-edit-distance) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vighneshpoojary/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0394-decode-string) |
 ## Simulation
 |  |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vighneshpoojary/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
