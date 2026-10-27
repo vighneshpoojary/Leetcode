@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/vighneshpoojary/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vighneshpoojary/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/vighneshpoojary/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vighneshpoojary/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vighneshpoojary/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vighneshpoojary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
@@ -266,5 +269,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
