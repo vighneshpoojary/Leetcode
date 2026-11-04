@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vighneshpoojary/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vighneshpoojary/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vighneshpoojary/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/vighneshpoojary/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vighneshpoojary/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vighneshpoojary/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vighneshpoojary/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vighneshpoojary/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/vighneshpoojary/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/vighneshpoojary/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/vighneshpoojary/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0394-decode-string) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vighneshpoojary/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vighneshpoojary/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vighneshpoojary/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/vighneshpoojary/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/vighneshpoojary/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vighneshpoojary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0394-decode-string) |
