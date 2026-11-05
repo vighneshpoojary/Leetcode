@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vighneshpoojary/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
+| [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vighneshpoojary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/vighneshpoojary/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/vighneshpoojary/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -296,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vighneshpoojary/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
