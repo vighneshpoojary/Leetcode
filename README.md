@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vighneshpoojary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/vighneshpoojary/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/vighneshpoojary/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 ## String
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vighneshpoojary/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vighneshpoojary/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vighneshpoojary/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vighneshpoojary/Leetcode/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -307,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/vighneshpoojary/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
