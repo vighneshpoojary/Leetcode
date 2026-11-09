@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vighneshpoojary/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/vighneshpoojary/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0406-queue-reconstruction-by-height](https://github.com/vighneshpoojary/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/vighneshpoojary/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/vighneshpoojary/Leetcode/tree/master/0724-find-pivot-index) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vighneshpoojary/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vighneshpoojary/Leetcode/tree/master/0268-missing-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/vighneshpoojary/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0912-sort-an-array](https://github.com/vighneshpoojary/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -312,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/vighneshpoojary/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/vighneshpoojary/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/vighneshpoojary/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
