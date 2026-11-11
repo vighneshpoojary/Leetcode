@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/vighneshpoojary/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/vighneshpoojary/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/vighneshpoojary/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0641-design-circular-deque](https://github.com/vighneshpoojary/Leetcode/tree/master/0641-design-circular-deque) |
 | [0724-find-pivot-index](https://github.com/vighneshpoojary/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vighneshpoojary/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vighneshpoojary/Leetcode/tree/master/0739-daily-temperatures) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vighneshpoojary/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vighneshpoojary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/vighneshpoojary/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0641-design-circular-deque](https://github.com/vighneshpoojary/Leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/vighneshpoojary/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vighneshpoojary/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0641-design-circular-deque](https://github.com/vighneshpoojary/Leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vighneshpoojary/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vighneshpoojary/Leetcode/tree/master/1472-design-browser-history) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vighneshpoojary/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vighneshpoojary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vighneshpoojary/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/vighneshpoojary/Leetcode/tree/master/0641-design-circular-deque) |
 ## Monotonic Stack
 |  |
 | ------- |
